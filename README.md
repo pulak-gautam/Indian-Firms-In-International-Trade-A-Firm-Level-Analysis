@@ -1,2 +1,3 @@
 # Indian-Firms-In-International-Trade-A-Firm-Level-Analysis
-Analyzing India's international trade by integrating firm-level heterogeneity
+Analyzing India's international trade by integrating firm-level heterogeneity.
+The analysis demonstrates that firm-specific characteristics, particularly productivity, influence trade by adjusting both the number of exporting firms (extensive margin) and the volume each one exports (intensive margin). Using firm-level data, the study also links a firm's proximity to key infrastructure, like the Golden Quadrilateral, to its trade flows. This research provides a blueprint for policymakers, suggesting that targeted infrastructure investments can enhance trade participation and productivity, ultimately fostering more inclusive economic growth in less-connected regions.
